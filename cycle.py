@@ -5,7 +5,6 @@ graph = {
     2: [3],
     3: [1]
 }
-
 visited = set()
 rec_stack = set()
 
