@@ -1,4 +1,5 @@
 #Detect Cycle in Graph (DFS)
+
 graph = {
     1: [2],
     2: [3],
